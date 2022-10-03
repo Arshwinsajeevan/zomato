@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital@1&family=Arima+Madurai:wght@300&family=Dancing+Script:wght@600&family=DynaPuff&family=Edu+NSW+ACT+Foundation:wght@500&family=Kanit:wght@600;700&family=Raleway:wght@300&family=Reem+Kufi&family=Satisfy&family=Seymour+One&family=Source+Sans+Pro:wght@300;400&display=swap');
+
+#sticky{
+    background-color: white;
+    position: sticky;
+    top: 0%;
+}
+.footer {
+    height: 700px;
+    /* background-color: cyan; */
+}
+
+/* .footer_img{
+    /* width: 100%; */
+/* } */
+#footer_image {
+    width: 1540px;
+    height: 600px;
+}
+
+#footer_text {
+    text-align: center;
+    color: white;
+    margin-top: -450px;
+    font-family: 'Seymour One', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#footer_text2 {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.search_form {
+    margin-left: 460px;
+    width: 610px;
+    text-align: center;
+    border: 6px white;
+    border-radius: 10px;
+}
+
+#card:hover {
+    transform: scale(1.05);
+    transition: .5s;
+}
+
+#shadow {
+    color: rgb(4, 4, 4);
+    /* text-shadow: 0 1px 3px black; */
+    text-shadow: 2px 2px 3px rgb(255, 255, 255);
+}
+
+#span {
+    font-weight: 400;
+}
+
+.app {
+    background-color: rgb(252, 242, 242);
+    height: 500px;
+}
+
+#app_img {
+    height: 450px;
+    width: 400px;
+}
+
+#app_textbox {
+    width: 280px;
+    height: 50px;
+    border: 2px solid rgb(204, 204, 204);
+    border-radius: 8px;
+}
