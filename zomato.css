@@ -5,20 +5,16 @@
     position: sticky;
     top: 0%;
 }
-.footer {
+.header {
     height: 700px;
-    /* background-color: cyan; */
 }
 
-/* .footer_img{
-    /* width: 100%; */
-/* } */
-#footer_image {
+#header_image {
     width: 1540px;
     height: 600px;
 }
 
-#footer_text {
+#header_text {
     text-align: center;
     color: white;
     margin-top: -450px;
@@ -27,7 +23,7 @@
     font-style: italic;
 }
 
-#footer_text2 {
+#header_text2 {
     text-align: center;
     color: white;
     font-style: italic;
@@ -58,7 +54,6 @@
 
 .app {
     background-color: rgb(252, 242, 242);
-    height: 500px;
 }
 
 #app_img {
@@ -71,4 +66,16 @@
     height: 50px;
     border: 2px solid rgb(204, 204, 204);
     border-radius: 8px;
+}
+.footer{
+    background-color: rgb(254, 247, 247);
+    /* height: 450px; */
+}
+#footer_text {
+    font-family: 'Seymour One', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+#footer_p{
+    font-weight: 100;
 }
